@@ -1,0 +1,25 @@
+{
+  "name": "bf-lunchbot",
+  "version": "1.0.0",
+  "description": "A Slack bot that tells what's for lunch on the 13th floor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erakor/bf-lunchbot.git"
+  },
+  "author": "",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "express": "^4.10.4",
+    "request": "^2.70.0",
+    "jade": "^1.11.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erakor/bf-lunchbot/issues"
+  },
+  "homepage": "https://github.com/erakor/bf-lunchbot#readme"
+}
